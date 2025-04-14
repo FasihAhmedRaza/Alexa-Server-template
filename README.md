@@ -19,7 +19,9 @@ Follow the instructions below to set up and run the project on your local machin
 1. **Initialize the project:**
 
    ```bash
+
    npm init
+
    ```
 
 2. **Install dependencies:**
